@@ -22,7 +22,7 @@ A console-based To-Do List application that allows users to add and view tasks. 
 
 **Status:** Completed
 
-[View Task 1 →](./task1_to_do/)
+[View Task 1 →](./task1_to%20do/)
 
 ### Task 2
 
