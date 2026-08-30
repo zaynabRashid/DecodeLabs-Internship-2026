@@ -48,7 +48,7 @@ The list stores the complete collection of tasks, while each dictionary represen
 
 Example:
 
-```python
+
 tasks = [
     {
         "id": 1,
