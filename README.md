@@ -26,11 +26,15 @@ A console-based To-Do List application that allows users to add and view tasks. 
 
 ### Task 2 – Expense Tracker
 
+A Python-based Expense Tracker application that allows users to add, view, delete, and calculate their total expenses. The project uses CSV-based persistent storage to save expense data and includes input validation for reliable user interaction.
+
 **Status:** Completed
 
 [View Task 2 →](./task2_Expense/)
 
 ### Task 3 – Random Password Generator
+
+A Python-based Random Password Generator that allows users to specify a password length and generates a random password using letters, numbers, and special characters. The project demonstrates the use of Python's `random` and `string` modules, string manipulation, loops, and input validation.
 
 **Status:** Completed
 
