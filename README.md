@@ -44,18 +44,22 @@ A console-based To-Do List application that allows users to add and view tasks. 
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 DecodeLabs-Internship-2026/
 │
 ├── README.md
 │
-├── task1_to_do/
+├── task1_to do/
 │   ├── README.md
 │   ├── to_do.py
 │   └── tasks.json
 │
-├── task2/
-│   └── ...
+├── task2_Expense/
+│   ├── README.md
+│   ├── Expense.py
+│   └── expenses.csv
 │
 └── task3/
     └── ...
