@@ -24,9 +24,11 @@ A console-based To-Do List application that allows users to add and view tasks. 
 
 [View Task 1 →](./task1_to%20do/)
 
-### Task 2
+### Task 2 – Expense Tracker
 
-**Status:** Upcoming
+**Status:** Completed
+
+[View Task 2 →](./task2_Expense/)
 
 ### Task 3
 
