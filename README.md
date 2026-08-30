@@ -30,19 +30,21 @@ A console-based To-Do List application that allows users to add and view tasks. 
 
 [View Task 2 →](./task2_Expense/)
 
-### Task 3
+### Task 3 – Random Password Generator
 
-**Status:** Upcoming
+**Status:** Completed
+
+[View Task 3 →](./task3_Password/)
 
 ## Technologies
 
 - Python
 - JSON
+- Random & String Modules
+- CSV
 - Git
 - GitHub
 - Visual Studio Code
-
-## Repository Structure
 
 ## Repository Structure
 
@@ -51,7 +53,7 @@ DecodeLabs-Internship-2026/
 │
 ├── README.md
 │
-├── task1_to do/
+├── task1_to_do/
 │   ├── README.md
 │   ├── to_do.py
 │   └── tasks.json
@@ -61,5 +63,6 @@ DecodeLabs-Internship-2026/
 │   ├── Expense.py
 │   └── expenses.csv
 │
-└── task3/
-    └── ...
+└── task3_Password/
+    ├── README.md
+    └── Password.py
